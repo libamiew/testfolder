@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/spacenews/author/libamiew/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/spacenews/" rel="alternate" type="text/html" />
+  <updated>2022-03-22T17:21:09+09:00</updated>
+  <id>http://localhost:4000/spacenews/author/libamiew/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Space Elvis News | </title>
+  
+
+  
+    <subtitle>스페이스엘비스 뉴스레터</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Welcome to Ghost</title>
+      <link href="http://localhost:4000/spacenews/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
+      <published>2017-07-27T19:00:00+09:00</published>
+      <updated>2017-07-27T19:00:00+09:00</updated>
+      <id>http://localhost:4000/spacenews/welcome</id>
+      <content type="html" xml:base="http://localhost:4000/spacenews/welcome">&lt;p&gt;왜안바껴&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Ghost</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Getting started" />
+      
+
+      
+        <summary type="html">왜안바껴</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
